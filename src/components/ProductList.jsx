@@ -6,9 +6,9 @@ const ProductList = ({ catProducts }) => {
     const productList = catProducts.map((item) => <ItemCard key={item.id}  item={item}/>)
   return (
     <>
-  <div>Is it working</div>
+  <main className="cardDiv">
   {productList}
-  
+  </main>
   </>)
 
 };

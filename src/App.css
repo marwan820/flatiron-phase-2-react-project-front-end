@@ -5,5 +5,25 @@
   text-align: top
 }
 
+.cardDiv {
+  color: blue;
+  background-color: aquamarine;
+  border: 50px black;
+  padding: 2%;
+  width:auto
+  
+}
 
+.card{
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  border-style:groove;
+  margin-bottom: 10%;
+  background-color: burlywood;
+}
+
+  
+  
+  
 
